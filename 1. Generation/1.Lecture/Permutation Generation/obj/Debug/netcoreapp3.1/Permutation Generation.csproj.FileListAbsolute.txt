@@ -1,0 +1,13 @@
+D:\App\DSA\Permutation Generation\bin\Debug\netcoreapp3.1\Permutation Generation.exe
+D:\App\DSA\Permutation Generation\bin\Debug\netcoreapp3.1\Permutation Generation.deps.json
+D:\App\DSA\Permutation Generation\bin\Debug\netcoreapp3.1\Permutation Generation.runtimeconfig.json
+D:\App\DSA\Permutation Generation\bin\Debug\netcoreapp3.1\Permutation Generation.runtimeconfig.dev.json
+D:\App\DSA\Permutation Generation\bin\Debug\netcoreapp3.1\Permutation Generation.dll
+D:\App\DSA\Permutation Generation\bin\Debug\netcoreapp3.1\Permutation Generation.pdb
+D:\App\DSA\Permutation Generation\obj\Debug\netcoreapp3.1\Permutation Generation.csprojAssemblyReference.cache
+D:\App\DSA\Permutation Generation\obj\Debug\netcoreapp3.1\Permutation Generation.AssemblyInfoInputs.cache
+D:\App\DSA\Permutation Generation\obj\Debug\netcoreapp3.1\Permutation Generation.AssemblyInfo.cs
+D:\App\DSA\Permutation Generation\obj\Debug\netcoreapp3.1\Permutation Generation.csproj.CoreCompileInputs.cache
+D:\App\DSA\Permutation Generation\obj\Debug\netcoreapp3.1\Permutation Generation.dll
+D:\App\DSA\Permutation Generation\obj\Debug\netcoreapp3.1\Permutation Generation.pdb
+D:\App\DSA\Permutation Generation\obj\Debug\netcoreapp3.1\Permutation Generation.genruntimeconfig.cache

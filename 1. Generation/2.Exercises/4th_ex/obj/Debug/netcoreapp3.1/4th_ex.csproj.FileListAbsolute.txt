@@ -1,0 +1,13 @@
+D:\App\DSA\Exercises\4th_ex\bin\Debug\netcoreapp3.1\4th_ex.exe
+D:\App\DSA\Exercises\4th_ex\bin\Debug\netcoreapp3.1\4th_ex.deps.json
+D:\App\DSA\Exercises\4th_ex\bin\Debug\netcoreapp3.1\4th_ex.runtimeconfig.json
+D:\App\DSA\Exercises\4th_ex\bin\Debug\netcoreapp3.1\4th_ex.runtimeconfig.dev.json
+D:\App\DSA\Exercises\4th_ex\bin\Debug\netcoreapp3.1\4th_ex.dll
+D:\App\DSA\Exercises\4th_ex\bin\Debug\netcoreapp3.1\4th_ex.pdb
+D:\App\DSA\Exercises\4th_ex\obj\Debug\netcoreapp3.1\4th_ex.csprojAssemblyReference.cache
+D:\App\DSA\Exercises\4th_ex\obj\Debug\netcoreapp3.1\4th_ex.AssemblyInfoInputs.cache
+D:\App\DSA\Exercises\4th_ex\obj\Debug\netcoreapp3.1\4th_ex.AssemblyInfo.cs
+D:\App\DSA\Exercises\4th_ex\obj\Debug\netcoreapp3.1\4th_ex.csproj.CoreCompileInputs.cache
+D:\App\DSA\Exercises\4th_ex\obj\Debug\netcoreapp3.1\4th_ex.dll
+D:\App\DSA\Exercises\4th_ex\obj\Debug\netcoreapp3.1\4th_ex.pdb
+D:\App\DSA\Exercises\4th_ex\obj\Debug\netcoreapp3.1\4th_ex.genruntimeconfig.cache

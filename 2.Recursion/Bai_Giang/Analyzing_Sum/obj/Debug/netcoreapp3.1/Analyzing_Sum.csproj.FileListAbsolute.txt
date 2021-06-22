@@ -1,0 +1,13 @@
+D:\Learning Coding\DSA\App\DSA\2.Recursion\Bai_Giang\Analyzing_Sum\bin\Debug\netcoreapp3.1\Analyzing_Sum.exe
+D:\Learning Coding\DSA\App\DSA\2.Recursion\Bai_Giang\Analyzing_Sum\bin\Debug\netcoreapp3.1\Analyzing_Sum.deps.json
+D:\Learning Coding\DSA\App\DSA\2.Recursion\Bai_Giang\Analyzing_Sum\bin\Debug\netcoreapp3.1\Analyzing_Sum.runtimeconfig.json
+D:\Learning Coding\DSA\App\DSA\2.Recursion\Bai_Giang\Analyzing_Sum\bin\Debug\netcoreapp3.1\Analyzing_Sum.runtimeconfig.dev.json
+D:\Learning Coding\DSA\App\DSA\2.Recursion\Bai_Giang\Analyzing_Sum\bin\Debug\netcoreapp3.1\Analyzing_Sum.dll
+D:\Learning Coding\DSA\App\DSA\2.Recursion\Bai_Giang\Analyzing_Sum\bin\Debug\netcoreapp3.1\Analyzing_Sum.pdb
+D:\Learning Coding\DSA\App\DSA\2.Recursion\Bai_Giang\Analyzing_Sum\obj\Debug\netcoreapp3.1\Analyzing_Sum.csprojAssemblyReference.cache
+D:\Learning Coding\DSA\App\DSA\2.Recursion\Bai_Giang\Analyzing_Sum\obj\Debug\netcoreapp3.1\Analyzing_Sum.AssemblyInfoInputs.cache
+D:\Learning Coding\DSA\App\DSA\2.Recursion\Bai_Giang\Analyzing_Sum\obj\Debug\netcoreapp3.1\Analyzing_Sum.AssemblyInfo.cs
+D:\Learning Coding\DSA\App\DSA\2.Recursion\Bai_Giang\Analyzing_Sum\obj\Debug\netcoreapp3.1\Analyzing_Sum.csproj.CoreCompileInputs.cache
+D:\Learning Coding\DSA\App\DSA\2.Recursion\Bai_Giang\Analyzing_Sum\obj\Debug\netcoreapp3.1\Analyzing_Sum.dll
+D:\Learning Coding\DSA\App\DSA\2.Recursion\Bai_Giang\Analyzing_Sum\obj\Debug\netcoreapp3.1\Analyzing_Sum.pdb
+D:\Learning Coding\DSA\App\DSA\2.Recursion\Bai_Giang\Analyzing_Sum\obj\Debug\netcoreapp3.1\Analyzing_Sum.genruntimeconfig.cache

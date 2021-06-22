@@ -1,0 +1,13 @@
+D:\Learning Coding\DSA\App\DSA\2.Recursion\Bai_Giang\Listing k of n\bin\Debug\netcoreapp3.1\Listing k of n.exe
+D:\Learning Coding\DSA\App\DSA\2.Recursion\Bai_Giang\Listing k of n\bin\Debug\netcoreapp3.1\Listing k of n.deps.json
+D:\Learning Coding\DSA\App\DSA\2.Recursion\Bai_Giang\Listing k of n\bin\Debug\netcoreapp3.1\Listing k of n.runtimeconfig.json
+D:\Learning Coding\DSA\App\DSA\2.Recursion\Bai_Giang\Listing k of n\bin\Debug\netcoreapp3.1\Listing k of n.runtimeconfig.dev.json
+D:\Learning Coding\DSA\App\DSA\2.Recursion\Bai_Giang\Listing k of n\bin\Debug\netcoreapp3.1\Listing k of n.dll
+D:\Learning Coding\DSA\App\DSA\2.Recursion\Bai_Giang\Listing k of n\bin\Debug\netcoreapp3.1\Listing k of n.pdb
+D:\Learning Coding\DSA\App\DSA\2.Recursion\Bai_Giang\Listing k of n\obj\Debug\netcoreapp3.1\Listing k of n.csprojAssemblyReference.cache
+D:\Learning Coding\DSA\App\DSA\2.Recursion\Bai_Giang\Listing k of n\obj\Debug\netcoreapp3.1\Listing k of n.AssemblyInfoInputs.cache
+D:\Learning Coding\DSA\App\DSA\2.Recursion\Bai_Giang\Listing k of n\obj\Debug\netcoreapp3.1\Listing k of n.AssemblyInfo.cs
+D:\Learning Coding\DSA\App\DSA\2.Recursion\Bai_Giang\Listing k of n\obj\Debug\netcoreapp3.1\Listing k of n.csproj.CoreCompileInputs.cache
+D:\Learning Coding\DSA\App\DSA\2.Recursion\Bai_Giang\Listing k of n\obj\Debug\netcoreapp3.1\Listing k of n.dll
+D:\Learning Coding\DSA\App\DSA\2.Recursion\Bai_Giang\Listing k of n\obj\Debug\netcoreapp3.1\Listing k of n.pdb
+D:\Learning Coding\DSA\App\DSA\2.Recursion\Bai_Giang\Listing k of n\obj\Debug\netcoreapp3.1\Listing k of n.genruntimeconfig.cache
