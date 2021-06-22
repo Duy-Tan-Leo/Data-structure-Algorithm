@@ -1,0 +1,13 @@
+D:\App\DSA\Exercises\1stEx\bin\Debug\netcoreapp3.1\1stEx.exe
+D:\App\DSA\Exercises\1stEx\bin\Debug\netcoreapp3.1\1stEx.deps.json
+D:\App\DSA\Exercises\1stEx\bin\Debug\netcoreapp3.1\1stEx.runtimeconfig.json
+D:\App\DSA\Exercises\1stEx\bin\Debug\netcoreapp3.1\1stEx.runtimeconfig.dev.json
+D:\App\DSA\Exercises\1stEx\bin\Debug\netcoreapp3.1\1stEx.dll
+D:\App\DSA\Exercises\1stEx\bin\Debug\netcoreapp3.1\1stEx.pdb
+D:\App\DSA\Exercises\1stEx\obj\Debug\netcoreapp3.1\1stEx.csprojAssemblyReference.cache
+D:\App\DSA\Exercises\1stEx\obj\Debug\netcoreapp3.1\1stEx.AssemblyInfoInputs.cache
+D:\App\DSA\Exercises\1stEx\obj\Debug\netcoreapp3.1\1stEx.AssemblyInfo.cs
+D:\App\DSA\Exercises\1stEx\obj\Debug\netcoreapp3.1\1stEx.csproj.CoreCompileInputs.cache
+D:\App\DSA\Exercises\1stEx\obj\Debug\netcoreapp3.1\1stEx.dll
+D:\App\DSA\Exercises\1stEx\obj\Debug\netcoreapp3.1\1stEx.pdb
+D:\App\DSA\Exercises\1stEx\obj\Debug\netcoreapp3.1\1stEx.genruntimeconfig.cache

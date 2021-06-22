@@ -1,0 +1,13 @@
+D:\App\DSA\2.Recursion\Bai_Giang\bin\Debug\netcoreapp3.1\Bai_Giang.exe
+D:\App\DSA\2.Recursion\Bai_Giang\bin\Debug\netcoreapp3.1\Bai_Giang.deps.json
+D:\App\DSA\2.Recursion\Bai_Giang\bin\Debug\netcoreapp3.1\Bai_Giang.runtimeconfig.json
+D:\App\DSA\2.Recursion\Bai_Giang\bin\Debug\netcoreapp3.1\Bai_Giang.runtimeconfig.dev.json
+D:\App\DSA\2.Recursion\Bai_Giang\bin\Debug\netcoreapp3.1\Bai_Giang.dll
+D:\App\DSA\2.Recursion\Bai_Giang\bin\Debug\netcoreapp3.1\Bai_Giang.pdb
+D:\App\DSA\2.Recursion\Bai_Giang\obj\Debug\netcoreapp3.1\Bai_Giang.csprojAssemblyReference.cache
+D:\App\DSA\2.Recursion\Bai_Giang\obj\Debug\netcoreapp3.1\Bai_Giang.AssemblyInfoInputs.cache
+D:\App\DSA\2.Recursion\Bai_Giang\obj\Debug\netcoreapp3.1\Bai_Giang.AssemblyInfo.cs
+D:\App\DSA\2.Recursion\Bai_Giang\obj\Debug\netcoreapp3.1\Bai_Giang.csproj.CoreCompileInputs.cache
+D:\App\DSA\2.Recursion\Bai_Giang\obj\Debug\netcoreapp3.1\Bai_Giang.dll
+D:\App\DSA\2.Recursion\Bai_Giang\obj\Debug\netcoreapp3.1\Bai_Giang.pdb
+D:\App\DSA\2.Recursion\Bai_Giang\obj\Debug\netcoreapp3.1\Bai_Giang.genruntimeconfig.cache

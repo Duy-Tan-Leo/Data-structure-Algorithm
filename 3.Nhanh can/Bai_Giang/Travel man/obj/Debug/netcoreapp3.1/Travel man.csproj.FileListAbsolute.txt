@@ -1,0 +1,13 @@
+D:\Learning Coding\DSA\App\DSA\3.Nhanh can\Bai_Giang\Travel man\bin\Debug\netcoreapp3.1\Travel man.exe
+D:\Learning Coding\DSA\App\DSA\3.Nhanh can\Bai_Giang\Travel man\bin\Debug\netcoreapp3.1\Travel man.deps.json
+D:\Learning Coding\DSA\App\DSA\3.Nhanh can\Bai_Giang\Travel man\bin\Debug\netcoreapp3.1\Travel man.runtimeconfig.json
+D:\Learning Coding\DSA\App\DSA\3.Nhanh can\Bai_Giang\Travel man\bin\Debug\netcoreapp3.1\Travel man.runtimeconfig.dev.json
+D:\Learning Coding\DSA\App\DSA\3.Nhanh can\Bai_Giang\Travel man\bin\Debug\netcoreapp3.1\Travel man.dll
+D:\Learning Coding\DSA\App\DSA\3.Nhanh can\Bai_Giang\Travel man\bin\Debug\netcoreapp3.1\Travel man.pdb
+D:\Learning Coding\DSA\App\DSA\3.Nhanh can\Bai_Giang\Travel man\obj\Debug\netcoreapp3.1\Travel man.csprojAssemblyReference.cache
+D:\Learning Coding\DSA\App\DSA\3.Nhanh can\Bai_Giang\Travel man\obj\Debug\netcoreapp3.1\Travel man.AssemblyInfoInputs.cache
+D:\Learning Coding\DSA\App\DSA\3.Nhanh can\Bai_Giang\Travel man\obj\Debug\netcoreapp3.1\Travel man.AssemblyInfo.cs
+D:\Learning Coding\DSA\App\DSA\3.Nhanh can\Bai_Giang\Travel man\obj\Debug\netcoreapp3.1\Travel man.csproj.CoreCompileInputs.cache
+D:\Learning Coding\DSA\App\DSA\3.Nhanh can\Bai_Giang\Travel man\obj\Debug\netcoreapp3.1\Travel man.dll
+D:\Learning Coding\DSA\App\DSA\3.Nhanh can\Bai_Giang\Travel man\obj\Debug\netcoreapp3.1\Travel man.pdb
+D:\Learning Coding\DSA\App\DSA\3.Nhanh can\Bai_Giang\Travel man\obj\Debug\netcoreapp3.1\Travel man.genruntimeconfig.cache

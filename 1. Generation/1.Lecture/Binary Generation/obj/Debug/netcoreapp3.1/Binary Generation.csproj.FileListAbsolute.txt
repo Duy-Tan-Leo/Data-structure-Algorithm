@@ -1,0 +1,13 @@
+D:\App\DSA\Binary Generation\bin\Debug\netcoreapp3.1\Binary Generation.exe
+D:\App\DSA\Binary Generation\bin\Debug\netcoreapp3.1\Binary Generation.deps.json
+D:\App\DSA\Binary Generation\bin\Debug\netcoreapp3.1\Binary Generation.runtimeconfig.json
+D:\App\DSA\Binary Generation\bin\Debug\netcoreapp3.1\Binary Generation.runtimeconfig.dev.json
+D:\App\DSA\Binary Generation\bin\Debug\netcoreapp3.1\Binary Generation.dll
+D:\App\DSA\Binary Generation\bin\Debug\netcoreapp3.1\Binary Generation.pdb
+D:\App\DSA\Binary Generation\obj\Debug\netcoreapp3.1\Binary Generation.csprojAssemblyReference.cache
+D:\App\DSA\Binary Generation\obj\Debug\netcoreapp3.1\Binary Generation.AssemblyInfoInputs.cache
+D:\App\DSA\Binary Generation\obj\Debug\netcoreapp3.1\Binary Generation.AssemblyInfo.cs
+D:\App\DSA\Binary Generation\obj\Debug\netcoreapp3.1\Binary Generation.csproj.CoreCompileInputs.cache
+D:\App\DSA\Binary Generation\obj\Debug\netcoreapp3.1\Binary Generation.dll
+D:\App\DSA\Binary Generation\obj\Debug\netcoreapp3.1\Binary Generation.pdb
+D:\App\DSA\Binary Generation\obj\Debug\netcoreapp3.1\Binary Generation.genruntimeconfig.cache

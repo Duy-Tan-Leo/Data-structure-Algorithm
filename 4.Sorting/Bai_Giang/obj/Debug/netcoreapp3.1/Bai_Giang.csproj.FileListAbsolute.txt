@@ -1,0 +1,13 @@
+D:\Learning Coding\DSA\App\DSA\4.Sorting\Bai_Giang\bin\Debug\netcoreapp3.1\Bai_Giang.exe
+D:\Learning Coding\DSA\App\DSA\4.Sorting\Bai_Giang\bin\Debug\netcoreapp3.1\Bai_Giang.deps.json
+D:\Learning Coding\DSA\App\DSA\4.Sorting\Bai_Giang\bin\Debug\netcoreapp3.1\Bai_Giang.runtimeconfig.json
+D:\Learning Coding\DSA\App\DSA\4.Sorting\Bai_Giang\bin\Debug\netcoreapp3.1\Bai_Giang.runtimeconfig.dev.json
+D:\Learning Coding\DSA\App\DSA\4.Sorting\Bai_Giang\bin\Debug\netcoreapp3.1\Bai_Giang.dll
+D:\Learning Coding\DSA\App\DSA\4.Sorting\Bai_Giang\bin\Debug\netcoreapp3.1\Bai_Giang.pdb
+D:\Learning Coding\DSA\App\DSA\4.Sorting\Bai_Giang\obj\Debug\netcoreapp3.1\Bai_Giang.csprojAssemblyReference.cache
+D:\Learning Coding\DSA\App\DSA\4.Sorting\Bai_Giang\obj\Debug\netcoreapp3.1\Bai_Giang.AssemblyInfoInputs.cache
+D:\Learning Coding\DSA\App\DSA\4.Sorting\Bai_Giang\obj\Debug\netcoreapp3.1\Bai_Giang.AssemblyInfo.cs
+D:\Learning Coding\DSA\App\DSA\4.Sorting\Bai_Giang\obj\Debug\netcoreapp3.1\Bai_Giang.csproj.CoreCompileInputs.cache
+D:\Learning Coding\DSA\App\DSA\4.Sorting\Bai_Giang\obj\Debug\netcoreapp3.1\Bai_Giang.dll
+D:\Learning Coding\DSA\App\DSA\4.Sorting\Bai_Giang\obj\Debug\netcoreapp3.1\Bai_Giang.pdb
+D:\Learning Coding\DSA\App\DSA\4.Sorting\Bai_Giang\obj\Debug\netcoreapp3.1\Bai_Giang.genruntimeconfig.cache
