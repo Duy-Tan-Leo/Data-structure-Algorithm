@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Learning Coding\\SourceCode\\Data-structure-Algorithm-main\\0. Data Structure\\C_sharp\\C_sharp.csproj": {}
+  },
+  "projects": {
+    "E:\\Learning Coding\\SourceCode\\Data-structure-Algorithm-main\\0. Data Structure\\C_sharp\\C_sharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Learning Coding\\SourceCode\\Data-structure-Algorithm-main\\0. Data Structure\\C_sharp\\C_sharp.csproj",
+        "projectName": "C_sharp",
+        "projectPath": "E:\\Learning Coding\\SourceCode\\Data-structure-Algorithm-main\\0. Data Structure\\C_sharp\\C_sharp.csproj",
+        "packagesPath": "C:\\Users\\42010011\\.nuget\\packages\\",
+        "outputPath": "E:\\Learning Coding\\SourceCode\\Data-structure-Algorithm-main\\0. Data Structure\\C_sharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\42010011\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

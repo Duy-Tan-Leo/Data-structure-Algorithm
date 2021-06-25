@@ -1,0 +1,16 @@
+E:\Learning Coding\SourceCode\Data-structure-Algorithm-main\0. Data Structure\C_sharp\math of train\bin\Debug\net5.0\math of train.exe
+E:\Learning Coding\SourceCode\Data-structure-Algorithm-main\0. Data Structure\C_sharp\math of train\bin\Debug\net5.0\math of train.deps.json
+E:\Learning Coding\SourceCode\Data-structure-Algorithm-main\0. Data Structure\C_sharp\math of train\bin\Debug\net5.0\math of train.runtimeconfig.json
+E:\Learning Coding\SourceCode\Data-structure-Algorithm-main\0. Data Structure\C_sharp\math of train\bin\Debug\net5.0\math of train.runtimeconfig.dev.json
+E:\Learning Coding\SourceCode\Data-structure-Algorithm-main\0. Data Structure\C_sharp\math of train\bin\Debug\net5.0\math of train.dll
+E:\Learning Coding\SourceCode\Data-structure-Algorithm-main\0. Data Structure\C_sharp\math of train\bin\Debug\net5.0\ref\math of train.dll
+E:\Learning Coding\SourceCode\Data-structure-Algorithm-main\0. Data Structure\C_sharp\math of train\bin\Debug\net5.0\math of train.pdb
+E:\Learning Coding\SourceCode\Data-structure-Algorithm-main\0. Data Structure\C_sharp\math of train\obj\Debug\net5.0\math of train.csprojAssemblyReference.cache
+E:\Learning Coding\SourceCode\Data-structure-Algorithm-main\0. Data Structure\C_sharp\math of train\obj\Debug\net5.0\math of train.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning Coding\SourceCode\Data-structure-Algorithm-main\0. Data Structure\C_sharp\math of train\obj\Debug\net5.0\math of train.AssemblyInfoInputs.cache
+E:\Learning Coding\SourceCode\Data-structure-Algorithm-main\0. Data Structure\C_sharp\math of train\obj\Debug\net5.0\math of train.AssemblyInfo.cs
+E:\Learning Coding\SourceCode\Data-structure-Algorithm-main\0. Data Structure\C_sharp\math of train\obj\Debug\net5.0\math of train.csproj.CoreCompileInputs.cache
+E:\Learning Coding\SourceCode\Data-structure-Algorithm-main\0. Data Structure\C_sharp\math of train\obj\Debug\net5.0\math of train.dll
+E:\Learning Coding\SourceCode\Data-structure-Algorithm-main\0. Data Structure\C_sharp\math of train\obj\Debug\net5.0\ref\math of train.dll
+E:\Learning Coding\SourceCode\Data-structure-Algorithm-main\0. Data Structure\C_sharp\math of train\obj\Debug\net5.0\math of train.pdb
+E:\Learning Coding\SourceCode\Data-structure-Algorithm-main\0. Data Structure\C_sharp\math of train\obj\Debug\net5.0\math of train.genruntimeconfig.cache
